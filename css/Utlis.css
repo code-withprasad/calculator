@@ -1,0 +1,33 @@
+.text-center{
+    text-align: center;
+}
+.bg-red{
+    background: red;
+
+}
+.containear{
+    background: mistyrose;
+    /* background: navajowhite; */
+    border: 10px solid black;
+}
+.yellow{
+    background:plum;
+}
+
+.mx-auto{
+    margin: auto;
+
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+
+}
+
+.align-item{
+    align-items: center;
+    /* justify-content: center; */
+
+}
